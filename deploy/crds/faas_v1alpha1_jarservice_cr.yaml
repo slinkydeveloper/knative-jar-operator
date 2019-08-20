@@ -1,0 +1,6 @@
+apiVersion: faas.redhat.com/v1alpha1
+kind: JarService
+metadata:
+  name: example-jarservice
+spec:
+  jarLocation: "https://file.io/i8nUa4"
